@@ -1,0 +1,15 @@
+body
+{
+  background-color: #373737;
+  min-width: 300px;
+  min-height: 300px;  
+}
+#qr-image
+{
+  position: absolute;
+  border: 5px solid;
+  text-align: center;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -25%);
+}

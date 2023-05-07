@@ -1,0 +1,17 @@
+{
+  "name": "QR Code Generator",
+  "version": "1.0.0", 
+  "description": "Generates QR code from page URL",
+  "manifest_version": 3,
+  "author": "Praneeth Oruganti",
+  "action":
+  {
+    "default_popup": "index.html", 
+    "default_title": "Your QR Code"
+  },
+  "permissions": 
+  [
+    "tabs", 
+    "activeTab"
+  ]
+}
